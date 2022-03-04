@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">How are you🤗! My Name is <b>Hamid Hussain Siddiqui</b> </h1>
+<h1 align="center">How are you🤗! My Name is <b>Hamid Siddiqui</b> </h1>
 <h3 align="center">A passionate frontend developer from India.</h3>
 
 
