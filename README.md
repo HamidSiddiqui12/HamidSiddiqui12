@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <p align="left"> <a href="https://twitter.com/code_sidd" target="blank"><img src="https://img.shields.io/twitter/follow/code_sidd?logo=twitter&style=for-the-badge" alt="code_sidd" /></a> </p>
 
 - 🌱 I’m currently learning **_Responsive web designing._**
-- 🔭 I’m currently working on **library Management System** using C lang.
+- 🔭 I’m currently working on **My portfolio page**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
