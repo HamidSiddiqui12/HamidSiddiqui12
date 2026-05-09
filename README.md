@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">How are you🤗! My Name is <b>Hamid Siddiqui</b> </h1>
-<h3 align="center">A passionate frontend developer from India.</h3>
+<h3 align="center">A passionate developer from India.</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hamidsiddiqui12&label=Profile%20views&color=0e75b6&style=flat" alt="hamidsiddiqui12" /> </p>
